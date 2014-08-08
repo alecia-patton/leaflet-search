@@ -51,15 +51,11 @@
 }
 .leaflet-control-search .search-cancel {
 	display:block;
-	width:62px;
-	height:18px;
-	position:absolute;
-	right:22px;
-	margin:3px 0;
-	background: url('../images/search-icon-test2.png') no-repeat 0 -46px;
-	text-decoration:none;
-	filter: alpha(opacity=80);
-	opacity: 0.8;		
+	float:left;
+	width:70px;
+	height:26px;	
+	background: url('../images/search-icon-test2.png') no-repeat 2px -46px;
+	border-radius:4px;		
 }
 .leaflet-control-search .search-cancel:hover {
 	filter: alpha(opacity=100);
@@ -78,7 +74,7 @@
 .leaflet-control-search .search-button {
 	display:block;
 	float:left;
-	width:62px;
+	width:70px;
 	height:26px;	
 	background: url('../images/search-icon-test2.png') no-repeat 2px 2px;
 	border-radius:4px;
