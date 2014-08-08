@@ -51,7 +51,7 @@
 }
 .leaflet-control-search .search-cancel {
 	display:block;
-	width:22px;
+	width:62px;
 	height:18px;
 	position:absolute;
 	right:22px;
@@ -78,7 +78,7 @@
 .leaflet-control-search .search-button {
 	display:block;
 	float:left;
-	width:26px;
+	width:62px;
 	height:26px;	
 	background: url('../images/search-icon-test2.png') no-repeat 2px 2px;
 	border-radius:4px;
